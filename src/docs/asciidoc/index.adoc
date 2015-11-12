@@ -1,4 +1,4 @@
-= Building.modern(DSLs).in(Groovy)
+= Building.modern(DSLs).with(Groovy)
 by Cédric Champeau (@CedricChampeau), Gradle Inc.
 2015-11-12
 :revnumber: {project-version}
@@ -502,7 +502,7 @@ image::GradleLogoLarge.png[]
 
 == Thank you!
 
-* Slides and code : https://github.com/melix/javaone-groovy-dsls
+* Slides and code : https://github.com/melix/devoxxbe-groovy-dsls
 * Groovy documentation : http://groovy-lang.org/documentation.html
 * Follow me: http://twitter.com/CedricChampeau[@CedricChampeau]
 
